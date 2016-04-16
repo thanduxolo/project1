@@ -1,0 +1,33 @@
+.table{
+	background: url("images.jpeg");
+	color: white;
+	padding: 20px;
+	margin-left: 60px;
+	margin-top: 40px;
+}
+
+a{
+	color: white;
+	text-decoration: ;
+	text-align: center;
+	margin-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+li{
+	list-style: none;
+}
+
+body{
+	font-size: 18pt;
+	background: url("theme1.jpeg");
+}
+
+p{
+	padding-top: 2px;
+}
+
+h2{
+	text-align: center;
+}
